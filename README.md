@@ -23,7 +23,7 @@
  <a href="https://strata-matheuspalmieri.netlify.app//">Site Do Projeto</a>
 </p>
 
-<img src="images/imagem.png" width="1366px" align="center">
+<img src="imagens/imagem.png" width="1366px" align="center">
 
 <!-- Atualizações -->
 
