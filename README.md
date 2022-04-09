@@ -25,12 +25,6 @@
 
 <img src="images/imagem.png" width="1366px" align="center">
 
-<!-- Atualizações -->
-
-### Features
-
-- [x] Criar Hovers
-
 ---
 
 ### Rodando A Aplicação
@@ -45,7 +39,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML](https://html.com/)
 - [CSS](https://html.com/css/)
-- [IcoMoon](https://icomoon.io/)
 
 ---
 
